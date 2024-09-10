@@ -50,3 +50,5 @@ else:
 print("Very interesting.")
 
 print("Nice to meet you " + name + ".")
+
+input("Goodbye ")
